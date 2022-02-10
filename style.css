@@ -1,6 +1,5 @@
 * {
     margin: 0px;
-    border: 0px;
 }
 
 @font-face {
@@ -32,7 +31,7 @@ h3 {
     margin-left: -35px;
 }
 
-#ul1, #ul2, #ol1, #ol2, #ol3 {
+#ul1h, #ul2h, #ol1h, #ol2h, #ol3h {
     color: #0576B9;
 }
 
