@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    border: 0px;
+}
+
+@font-face {
+    font-family: Slack-Lato;
+    src: url(fonts/Lato-Reg.ttf);
+}
+
+body {
+    background-color: rgb(44, 47, 51);
+    color: #FFFFFF;
+    font-family: Slack-Lato;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    padding: 20px;
+    text-align: center;
+}
+
+.list {
+    text-align: center;
+    list-style-position: inside;
+    list-style: none;
+    margin-left: -35px;
+}
+
+#ul1, #ul2, #ol1, #ol2, #ol3 {
+    color: #0576B9;
+}
+
+.listitem {
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
